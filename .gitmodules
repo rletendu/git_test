@@ -1,0 +1,3 @@
+[submodule "git_test_sub_location"]
+	path = git_test_sub_location
+	url = git@github.com:rletendu/git_test_sub.git
